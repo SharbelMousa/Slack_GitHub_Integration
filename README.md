@@ -15,7 +15,7 @@ Technologies We Used:
 1) Python
 2) Flask
 3) WSGI -> gunicorn
-4) Heruko Cloud
+4) HEROKU Cloud
 5) Webhhooks
 6) HTTP/s requests
 7) Agile Methodologies
