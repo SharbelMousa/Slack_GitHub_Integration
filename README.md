@@ -17,4 +17,5 @@ Technologies We Used:
 3) WSGI -> gunicorn
 4) Heruko Cloud
 5) Webhhooks
-6) Agile methplidies
+6) HTTP/s requests
+7) Agile Methodologies
